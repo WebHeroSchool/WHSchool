@@ -487,7 +487,7 @@
       background: #4ab272;
       text-align: center;
       font: 15px/18px MontserratBold, arial, helvetica, sans-serif;
-      color: #fff;
+      color: white;
       margin-top: 20px;
       }
 
@@ -500,7 +500,7 @@
         justify-content: center;
         text-align: center;
         font: 400 20px/23px Roboto, arial, helvetica;
-        color: #fff;
+        color: white;
         padding: 70px 0;
       }
     }
